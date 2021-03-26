@@ -1,0 +1,73 @@
+{
+  "squares": [
+    { "name": "chill",
+      "color": "#233C75",
+ 
+      "links": [
+        { "name": "twitch", "url": "https://twitch.tv/" },
+        { "name": "netflix", "url": "https://netflix.com" },
+        { "name": "youtube", "url": "https://youtube.com" }
+      ]
+    },
+    { "name": "media",
+      "color": "#1D5391",
+ 
+      "links": [
+        { "name": "crunchyroll", "url": "https://www.crunchyroll.com/pt-br" },
+        { "name": "disney+", "url": "https://www.disneyplus.com/home" },
+        { "name": "prime video", "url": "https://www.primevideo.com/region/na/ref=av_auth_return_redir?_encoding=UTF8&ie=UTF8&language=pt_BR" }
+      ]
+    },
+    { "name": "college",
+      
+      "color": "#0077BC",
+      
+      "links": [
+        { "name": "github", "url": "https://github.com" },
+        { "name": "ead unifor", "url": "https://ead.unifor.br/" },
+        { "name": "unifor online", "url": "https://uol.unifor.br/" }
+      ]
+    },
+    { "name": "social",
+      "color": "#1DA3B8",
+      "links": [
+        { "name": "reddit", "url": "https://reddit.com" },
+        { "name": "whatsapp", "url": "https://web.whatsapp.com/" },
+        { "name": "twitter", "url": "https://www.twitter.com/" }
+       
+      ]
+    },
+    {
+      "name": "mon - wed",
+      "color": "#50BFA1",
+      
+      "links": [
+        {"name": "erm", "url": "https://meet.google.com/xwn-pctk-cex"},
+        {"name": "cálculo 3", "url": "https://meet.google.com/rfv-pgdv-woj"},
+        {"name": "física 2", "url": "https://meet.google.com/yia-hzck-hdn"}
+      ]
+    },
+    {
+      "name": "tue - thu",
+      "color": "#67DBBC",
+      "links": [
+        {"name": "probabilidade", "url": "https://meet.google.com/rix-nxgr-amw"},
+        {"name": "circuitos", "url": "https://meet.google.com/mqj-cdhu-ihy"},
+        {"name": "estr. de dados", "url": "https://meet.google.com/auo-aumi-sfy"}
+      ]
+    }
+  ],
+  "searchEngine":"Google",
+  "user": "llaurabp",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": false,
+  "disable24Hour": true,
+  "disableWeather": false,
+  "timeZone": "America/Fortaleza",
+  "weatherConf": {
+    "location": "Ceará Brazil",
+    "unit": "cel"
+  },
+  "settingsIcon": false
+}
