@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Minimal Startpage</h1>
 <h4>Just another minimal startpage for browsers.</h4>
+  <h4>Project made by https://github.com/deepjyoti30</h4> 
 </div>
 
 <img src=".github/startpage.gif">
